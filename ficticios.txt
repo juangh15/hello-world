@@ -1,0 +1,3 @@
+cedula: 1234, nombre: pepe, contrasena: asdfg, direccion: adsdf, correo="opcional"
+
+cedula: 1235, nombre: karla, contrasena: 1sdfg, direccion: 4dsdf, correo="bj@hhh.com"
